@@ -483,6 +483,7 @@ Thanks to these amazing people for building Algorithia! 💙
       <sub><b>Vaibhavi Jha</b></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/TheEsha17">
       <img src="https://ui-avatars.com/api/?name=Esha&background=0f3460&color=fff&size=80&rounded=true" width="80px"/><br/>
       <sub><b>Esha</b></sub>
     </td>
