@@ -39,7 +39,7 @@
 - [🏙️ Welcome to Data City](#️-welcome-to-data-city)
 - [🎮 Core User Experience](#-core-user-experience)
 - [✨ Key Features](#-key-features)
-- [🧠 Why Data City is Different](#-why-DataCity-is-different)
+- [🧠 Why Data City is Different](#-why-algorithia-is-different)
 - [🏗️ System Architecture](#️-system-architecture)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📁 Project Structure](#-project-structure)
