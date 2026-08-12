@@ -21,7 +21,7 @@
 
 <br/>
 
-> **Algorithia** transforms algorithm learning from static diagrams into an interactive world  
+> **Data City** transforms algorithm learning from static diagrams into an interactive world  
 > where code becomes a **living simulation** — inside a city built from data structures.
 
 <br/>
