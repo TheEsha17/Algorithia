@@ -39,7 +39,7 @@
 - [🏙️ Welcome to Data City](#️-welcome-to-data-city)
 - [🎮 Core User Experience](#-core-user-experience)
 - [✨ Key Features](#-key-features)
-- [🧠 Why Algorithia is Different](#-why-algorithia-is-different)
+- [🧠 Why Data City is Different](#-why-DataCity-is-different)
 - [🏗️ System Architecture](#️-system-architecture)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📁 Project Structure](#-project-structure)
@@ -75,7 +75,7 @@ This creates a critical gap: students understand *what* an algorithm does but st
 
 ## 💡 Our Solution
 
-**Algorithia bridges this gap** by converting user-written code into a dynamic visual simulation.
+**Data City bridges this gap** by converting user-written code into a dynamic visual simulation.
 
 ```
   📝 User Code
@@ -101,7 +101,7 @@ Every **comparison**, **swap**, **loop iteration**, or **data structure operatio
 
 <div align="center">
 
-*Data City is the central environment of Algorithia.*  
+*Algorithms is the central environment of Data City.*  
 *Each data structure exists as a **district** inside the city, representing how it behaves logically.*
 
 </div>
@@ -121,7 +121,7 @@ Each district contains **interactive coding challenges** that teach algorithmic 
 
 ## 🎮 Core User Experience
 
-The learning flow in Algorithia is designed as an **immersive interactive journey**:
+The learning flow in Data City is designed as an **immersive interactive journey**:
 
 ```
   ┌─────────────────────────────────────────────────────────┐
@@ -158,18 +158,18 @@ The learning flow in Algorithia is designed as an **immersive interactive journe
 
 ---
 
-## 🧠 Why Algorithia is Different
+## 🧠 Why Data City is Different
 
 <div align="center">
 
 *Traditional algorithm visualizers show predefined animations.*  
-*Algorithia instead **interprets actual user code**.*
+*Data City instead **interprets actual user code**.*
 
 </div>
 
 <br/>
 
-| ❌ Traditional Tools | ✅ Algorithia |
+| ❌ Traditional Tools | ✅ Data City |
 |:---|:---|
 | Pre-recorded animations | Real code execution |
 | Static diagrams | Interactive simulation |
@@ -177,7 +177,7 @@ The learning flow in Algorithia is designed as an **immersive interactive journe
 | No personalization | Adaptive AI feedback |
 | One-size-fits-all | Personalized difficulty |
 
-> Algorithia transforms algorithms from **abstract concepts** into **observable systems**.
+> Data City transforms algorithms from **abstract concepts** into **observable systems**.
 
 ---
 
@@ -437,7 +437,7 @@ Analyze user performance after solving a problem.
 
 <div align="center">
 
-*Algorithia helps students bridge theory and practice through active learning.*
+*Data City helps students bridge theory and practice through active learning.*
 
 </div>
 
@@ -468,7 +468,7 @@ Analyze user performance after solving a problem.
 
 <div align="center">
 
-Thanks to these amazing people for building Algorithia! 💙
+Thanks to these amazing people for building Data City! 💙
 
 <table>
   <tr>
